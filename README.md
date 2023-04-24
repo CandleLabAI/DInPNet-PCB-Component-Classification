@@ -13,6 +13,7 @@ Project Organization
 ------------
     ├── LICENSE                         <- The LICENSE for developers using this project.
     ├── README.md                       <- The top-level README for developers using this project.
+    ├── 3A5_DInPNet.pdf                 <- Presentation PDF file of the project.
     ├── requirements.txt                <- The requirements file for reproducing the analysis environment, e.g. generated with `pip freeze > requirements.txt`.
     |── reports                         <- The directory containing metadata used for repo.
     ├── checkpoints                     <- Directory where best models will be saved.
