@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ### Dataset
 
-We have used FICS-PCB dataset which can be downloaded from <a href="https://www.trust-hub.org/#/data/fics-pcb">here</a>. components data needs to placed under `data/` directory.
+We have used FICS-PCB dataset which can be downloaded from <a href="https://www.trust-hub.org/#/data/fics-pcb">here</a>. Components data needs to placed under `data/` directory.
 
 Data Structure in `data/` directory after completing above steps
 ------------
@@ -84,7 +84,7 @@ Data Structure in `data/` directory after completing above steps
 
 ### Train model
 
-change the hyperparameters and configuration parameters according to need in ```src/config.py```.
+Change the hyperparameters and configuration parameters according to need in ```src/config.py```.
 
 To train DInPNet, Run following command from ```/src``` directory.
 
