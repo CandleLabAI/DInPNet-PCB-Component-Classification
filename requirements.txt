@@ -1,0 +1,4 @@
+torch
+torchvision
+torchaudio
+git+https://github.com/ChristophReich1996/Involution
